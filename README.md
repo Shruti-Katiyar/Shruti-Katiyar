@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shruti Katiyar</h1>
+<h1 align="center">Hi 👋, I'm Shruti </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti-katiyar&label=Profile%20views&color=0e75b6&style=flat" alt="shruti-katiyar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruti-katiyar" alt="shruti-katiyar" /></a> </p>
