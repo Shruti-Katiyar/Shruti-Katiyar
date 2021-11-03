@@ -8,7 +8,7 @@
 
 
 - 👨‍💻 I’m currently focusing on **Data Structures and Algorithms**
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **tech related things**
 
