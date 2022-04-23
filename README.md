@@ -41,7 +41,6 @@
 
 
 
-![snake gif](https://github.com/Shruti-Katiyar/Shruti-Katiyar/blob/output/github-contribution-grid-snake.gif)
 
 
 
